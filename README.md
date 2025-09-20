@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋🏽, I'm Javier Ortegon </h1>
-<br/>
+
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
