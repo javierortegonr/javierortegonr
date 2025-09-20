@@ -26,16 +26,6 @@
 <br/>
 
 <h2 align="center">
-    My contributions to open-source:
-</h2>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
-</p>  
-
-<br/>
-
-<h2 align="center">
   Do you speak <b>Español</b>? It's ok if you don't. 
 </h2>
 <h3 align="center">
